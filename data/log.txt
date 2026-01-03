@@ -1,0 +1,4318 @@
+Updating prices from API
+Successfully updated prices, starting to claim now
+Clicking unopened chest at slot index 10 (10)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x31
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x31"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x42
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x42"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 6
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§9Wither Catalyst
+    §r§dWither Essence §r§8x63
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6800,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§6800,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§9Wither Catalyst"
+Trying to parse line "§r§dWither Essence §r§8x63"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§5Hot Potato Book
+    §r§fEnchanted Book (§r§d§lLast Stand I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x70
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x70"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x86
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lCombo II§r§f)
+    §r§5Hot Potato Book
+    §r§fEnchanted Book (Rejuvenate III§r§f)
+    §r§fEnchanted Book (§r§d§lLast Stand II§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x101
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo II§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_2 is WORTHLESS
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate III§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand II§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x101"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x31
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x31"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x42
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x42"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 6
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§9Wither Catalyst
+    §r§dWither Essence §r§8x63
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6800,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§6800,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§9Wither Catalyst"
+Trying to parse line "§r§dWither Essence §r§8x63"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§5Hot Potato Book
+    §r§fEnchanted Book (§r§d§lLast Stand I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x70
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x70"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x86
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 8
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§9Wither Catalyst
+    §r§5Wither Blood
+    §r§fEnchanted Book (Rejuvenate III§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x102
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§62,400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§62,400,000 Coins"
+Trying to parse line "§r§9Wither Catalyst"
+Trying to parse line "§r§5Wither Blood"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate III§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x102"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking 12 early and returning
+Clicking unopened chest at slot index 11 (11)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 5
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x37
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 6
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x37"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§dWither Essence §r§8x44
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§dWither Essence §r§8x44"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 6
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§dWither Essence §r§8x66
+    §r§dUndead Essence §r§8x86
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§dWither Essence §r§8x66"
+Trying to parse line "§r§dUndead Essence §r§8x86"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x76
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x76"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (§r§d§lLast Stand I§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x86
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand I§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate III§r§f)
+    §r§fEnchanted Book (§r§d§lCombo II§r§f)
+    §r§fEnchanted Book (§r§d§lSoul Eater I§r§f)
+    §r§fEnchanted Book (Feather Falling VII§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x101
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate III§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo II§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_2 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lSoul Eater I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VII§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_7 is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x101"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 5
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x37
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 6
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x37"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§dWither Essence §r§8x44
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§dWither Essence §r§8x44"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 6
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§dWither Essence §r§8x66
+    §r§dUndead Essence §r§8x86
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§dWither Essence §r§8x66"
+Trying to parse line "§r§dUndead Essence §r§8x86"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x76
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x76"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (§r§d§lLast Stand I§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x86
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand I§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate III§r§f)
+    §r§5Hot Potato Book
+    §r§6Wither Boots
+    §r§cStorm the Fish
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x100
+    §r§dUndead Essence §r§8x125
+    §r
+    §r§7Cost
+    §r§62,000,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§62,000,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate III§r§f)"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§6Wither Boots"
+Trying to parse line "§r§cStorm the Fish"
+  STORM_THE_FISH is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x100"
+Trying to parse line "§r§dUndead Essence §r§8x125"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking unopened chest at slot index 12 (12)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 5
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x37
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 6
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x37"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 7
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dWither Essence §r§8x38
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x38"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x61
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x61"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x72
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x72"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§9Wither Shard
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x86
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 8
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§5Wither Blood
+    §r§5Precursor Gear
+    §r§fEnchanted Book (Rejuvenate III§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x104
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§62,400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§62,400,000 Coins"
+Trying to parse line "§r§5Wither Blood"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate III§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x104"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 5
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x37
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 6
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x37"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 7
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dWither Essence §r§8x38
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x38"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x61
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x61"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x72
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x72"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§9Wither Shard
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x86
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 8
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom II§r§f)
+    §r§5Precursor Gear
+    §r§6Wither Helmet
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x104
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§63,200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§63,200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom II§r§f)"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§6Wither Helmet"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x104"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking unopened chest at slot index 13 (13)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dUndead Essence §r§8x32
+    §r§dWither Essence §r§8x31
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Trying to parse line "§r§dWither Essence §r§8x31"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§5Hot Potato Book
+    §r§dUndead Essence §r§8x51
+    §r§dWither Essence §r§8x38
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Trying to parse line "§r§dWither Essence §r§8x38"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 6
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§5Hot Potato Book
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x86
+    §r§dWither Essence §r§8x64
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x86"
+Trying to parse line "§r§dWither Essence §r§8x64"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x95
+    §r§dWither Essence §r§8x74
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Trying to parse line "§r§dWither Essence §r§8x74"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§9Wither Shard
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x105
+    §r§dWither Essence §r§8x86
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lLast Stand II§r§f)
+    §r§fEnchanted Book (Infinite Quiver VII§r§f)
+    §r§5Hot Potato Book
+    §r§fEnchanted Book (§r§d§lUltimate Wise II§r§f)
+    §r§6Power Dragon Shard
+    §r§dUndead Essence §r§8x126
+    §r§dWither Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand II§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VII§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_7 is WORTHLESS
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise II§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+Trying to parse line "§r§dWither Essence §r§8x105"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dUndead Essence §r§8x32
+    §r§dWither Essence §r§8x31
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Trying to parse line "§r§dWither Essence §r§8x31"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§5Hot Potato Book
+    §r§dUndead Essence §r§8x51
+    §r§dWither Essence §r§8x38
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Trying to parse line "§r§dWither Essence §r§8x38"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 6
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§5Hot Potato Book
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x86
+    §r§dWither Essence §r§8x64
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x86"
+Trying to parse line "§r§dWither Essence §r§8x64"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x95
+    §r§dWither Essence §r§8x74
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Trying to parse line "§r§dWither Essence §r§8x74"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§9Wither Shard
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x105
+    §r§dWither Essence §r§8x86
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Jerry III§r§f)
+    §r§fEnchanted Book (Feather Falling VII§r§f)
+    §r§5Wither Cloak Sword
+    §r§fEnchanted Book (Infinite Quiver VII§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x100
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§63,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§63,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry III§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_3 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VII§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_7 is WORTHLESS
+Trying to parse line "§r§5Wither Cloak Sword"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VII§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_7 is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x100"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking unopened chest at slot index 14 (14)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x31
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x31"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x43
+    §r§dUndead Essence §r§8x61
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x43"
+Trying to parse line "§r§dUndead Essence §r§8x61"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dWither Essence §r§8x63
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x63"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lCombo I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§5Precursor Gear
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x70
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo I§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x70"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§5Precursor Gear
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x82
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x82"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 8
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§5Hot Potato Book
+    §r§5Wither Cloak Sword
+    §r§fEnchanted Book (Infinite Quiver VII§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x102
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§63,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§63,600,000 Coins"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§5Wither Cloak Sword"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VII§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_7 is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x102"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x31
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x31"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x43
+    §r§dUndead Essence §r§8x61
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x43"
+Trying to parse line "§r§dUndead Essence §r§8x61"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dWither Essence §r§8x63
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x63"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lCombo I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§5Precursor Gear
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x70
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo I§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x70"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§5Precursor Gear
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x82
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x82"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain II§r§f)
+    §r§5Hot Potato Book
+    §r§fEnchanted Book (§r§d§lLast Stand II§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Jerry III§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x101
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain II§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_2 is WORTHLESS
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand II§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry III§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_3 is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x101"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking 15 early and returning
+Clicking unopened chest at slot index 15 (15)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x31
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x31"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§dWither Essence §r§8x43
+    §r§dUndead Essence §r§8x61
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§dWither Essence §r§8x43"
+Trying to parse line "§r§dUndead Essence §r§8x61"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x61
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x61"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 7
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lSoul Eater I§r§f)
+    §r§fEnchanted Book (§r§d§lLast Stand I§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x76
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6800,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6800,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lSoul Eater I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand I§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x76"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§9Wither Catalyst
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x80
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§9Wither Catalyst"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x80"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 8
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VII§r§f)
+    §r§5Wither Blood
+    §r§5Hot Potato Book
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x104
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§62,400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§62,400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VII§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_7 is WORTHLESS
+Trying to parse line "§r§5Wither Blood"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x104"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x31
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x31"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§dWither Essence §r§8x43
+    §r§dUndead Essence §r§8x61
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§dWither Essence §r§8x43"
+Trying to parse line "§r§dUndead Essence §r§8x61"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x61
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x61"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 7
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lSoul Eater I§r§f)
+    §r§fEnchanted Book (§r§d§lLast Stand I§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x76
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6800,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6800,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lSoul Eater I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand I§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x76"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§9Wither Catalyst
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x80
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§9Wither Catalyst"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x80"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Jerry III§r§f)
+    §r§5Fuming Potato Book
+    §r§fEnchanted Book (Infinite Quiver VII§r§f)
+    §r§fEnchanted Book (§r§d§lLast Stand II§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x103
+    §r§dUndead Essence §r§8x131
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry III§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_3 is WORTHLESS
+Trying to parse line "§r§5Fuming Potato Book"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VII§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_7 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand II§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x103"
+Trying to parse line "§r§dUndead Essence §r§8x131"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking 14 early and returning
+Clicking unopened chest at slot index 16 (16)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§dWither Essence §r§8x31
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§dWither Essence §r§8x31"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 7
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dWither Essence §r§8x38
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x38"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lCombo I§r§f)
+    §r§dWither Essence §r§8x61
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo I§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x61"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 7
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§6Wither Boots
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x71
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§62,000,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§62,000,000 Coins"
+Trying to parse line "§r§6Wither Boots"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x71"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§9Wither Shard
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x84
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x84"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 8
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§5Wither Blood
+    §r§5Precursor Gear
+    §r§fEnchanted Book (§r§d§lLast Stand II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x104
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§62,400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§62,400,000 Coins"
+Trying to parse line "§r§5Wither Blood"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand II§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x104"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§dWither Essence §r§8x31
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§dWither Essence §r§8x31"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 7
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dWither Essence §r§8x38
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x38"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lCombo I§r§f)
+    §r§dWither Essence §r§8x61
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo I§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x61"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 7
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§6Wither Boots
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x71
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§62,000,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§62,000,000 Coins"
+Trying to parse line "§r§6Wither Boots"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x71"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§9Wither Shard
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x84
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x84"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§6Wither Helmet
+    §r§fEnchanted Book (§r§d§lUltimate Wise II§r§f)
+    §r§fEnchanted Book (Infinite Quiver VII§r§f)
+    §r§fEnchanted Book (§r§d§lLast Stand II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x100
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§63,200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§63,200,000 Coins"
+Trying to parse line "§r§6Wither Helmet"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise II§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VII§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_7 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand II§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x100"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking unopened chest at slot index 19 (19)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x32
+    §r§dWither Essence §r§8x31
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Trying to parse line "§r§dWither Essence §r§8x31"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 7
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x51
+    §r§dWither Essence §r§8x38
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Trying to parse line "§r§dWither Essence §r§8x38"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x76
+    §r§dWither Essence §r§8x61
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x76"
+Trying to parse line "§r§dWither Essence §r§8x61"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x95
+    §r§dWither Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_2 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Trying to parse line "§r§dWither Essence §r§8x76"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x105
+    §r§dWither Essence §r§8x86
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain II§r§f)
+    §r§fEnchanted Book (§r§d§lSoul Eater I§r§f)
+    §r§fEnchanted Book (§r§d§lCombo II§r§f)
+    §r§cGoldor the Fish
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x125
+    §r§dWither Essence §r§8x101
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain II§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_2 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lSoul Eater I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo II§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_2 is WORTHLESS
+Trying to parse line "§r§cGoldor the Fish"
+  GOLDOR_THE_FISH is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x125"
+Trying to parse line "§r§dWither Essence §r§8x101"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x32
+    §r§dWither Essence §r§8x31
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Trying to parse line "§r§dWither Essence §r§8x31"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 7
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x51
+    §r§dWither Essence §r§8x38
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Trying to parse line "§r§dWither Essence §r§8x38"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x76
+    §r§dWither Essence §r§8x61
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x76"
+Trying to parse line "§r§dWither Essence §r§8x61"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x95
+    §r§dWither Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_2 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Trying to parse line "§r§dWither Essence §r§8x76"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x105
+    §r§dWither Essence §r§8x86
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§5Hot Potato Book
+    §r§5Precursor Gear
+    §r§fEnchanted Book (§r§d§lUltimate Wise II§r§f)
+    §r§fEnchanted Book (Infinite Quiver VII§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x101
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise II§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VII§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_7 is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x101"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking unopened chest at slot index 20 (20)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 5
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x37
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 6
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x37"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§dWither Essence §r§8x42
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§dWither Essence §r§8x42"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x61
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x61"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 9
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x70
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_2 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x70"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lLast Stand I§r§f)
+    §r§5Precursor Gear
+    §r§9Wither Shard
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x82
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand I§r§f)"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x82"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lSoul Eater I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Jerry III§r§f)
+    §r§fEnchanted Book (Infinite Quiver VII§r§f)
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x101
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lSoul Eater I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry III§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_3 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VII§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_7 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain II§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_2 is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x101"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 5
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§dWither Essence §r§8x37
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 6
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x37"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§dWither Essence §r§8x42
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§dWither Essence §r§8x42"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x61
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x61"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 9
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x70
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_2 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x70"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lLast Stand I§r§f)
+    §r§5Precursor Gear
+    §r§9Wither Shard
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x82
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand I§r§f)"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x82"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 8
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lSoul Eater I§r§f)
+    §r§6Wither Boots
+    §r§fEnchanted Book (§r§d§lLast Stand II§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x104
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§62,000,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§62,000,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lSoul Eater I§r§f)"
+Trying to parse line "§r§6Wither Boots"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand II§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x104"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking 16 early and returning
+Clicking unopened chest at slot index 21 (21)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x32
+    §r§dWither Essence §r§8x31
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Trying to parse line "§r§dWither Essence §r§8x31"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 7
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x38
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x38"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 6
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§5Precursor Gear
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§dWither Essence §r§8x63
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x63"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§5Precursor Gear
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§6Power Dragon Shard
+    §r§dUndead Essence §r§8x95
+    §r§dWither Essence §r§8x72
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Trying to parse line "§r§dWither Essence §r§8x72"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§5Wither Cloak Sword
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x80
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§63,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§63,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§5Wither Cloak Sword"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x80"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 8
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Wise II§r§f)
+    §r§5Wither Blood
+    §r§5Hot Potato Book
+    §r§6Power Dragon Shard
+    §r§dUndead Essence §r§8x126
+    §r§dWither Essence §r§8x102
+    §r
+    §r§7Cost
+    §r§62,400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§62,400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise II§r§f)"
+Trying to parse line "§r§5Wither Blood"
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+Trying to parse line "§r§dWither Essence §r§8x102"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x32
+    §r§dWither Essence §r§8x31
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Trying to parse line "§r§dWither Essence §r§8x31"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 7
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x38
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x38"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 6
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§5Precursor Gear
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§dWither Essence §r§8x63
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x63"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§5Precursor Gear
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§6Power Dragon Shard
+    §r§dUndead Essence §r§8x95
+    §r§dWither Essence §r§8x72
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Trying to parse line "§r§dWither Essence §r§8x72"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§5Wither Cloak Sword
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x80
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§63,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§63,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§5Wither Cloak Sword"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x80"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 8
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lCombo II§r§f)
+    §r§fEnchanted Book (Rejuvenate III§r§f)
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x102
+    §r§dUndead Essence §r§8x126
+    §r§6Shiny Wither Leggings
+    §r
+    §r§7Cost
+    §r§64,800,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§64,800,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo II§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_2 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Rejuvenate III§r§f)"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x102"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+Trying to parse line "§r§6Shiny Wither Leggings"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking 16 early and returning
+Clicking unopened chest at slot index 22 (22)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dUndead Essence §r§8x32
+    §r§dWither Essence §r§8x31
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Trying to parse line "§r§dWither Essence §r§8x31"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 7
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x51
+    §r§dWither Essence §r§8x38
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Trying to parse line "§r§dWither Essence §r§8x38"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x76
+    §r§dWither Essence §r§8x63
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x76"
+Trying to parse line "§r§dWither Essence §r§8x63"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x95
+    §r§dWither Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_2 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Trying to parse line "§r§dWither Essence §r§8x76"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§fEnchanted Book (§r§d§lLast Stand I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§6Power Dragon Shard
+    §r§dUndead Essence §r§8x105
+    §r§dWither Essence §r§8x86
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom II§r§f)
+    §r§fEnchanted Book (Rejuvenate III§r§f)
+    §r§fEnchanted Book (§r§d§lCombo II§r§f)
+    §r§5Hot Potato Book
+    §r§6Power Dragon Shard
+    §r§dUndead Essence §r§8x126
+    §r§dWither Essence §r§8x101
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom II§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate III§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo II§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_2 is WORTHLESS
+Trying to parse line "§r§5Hot Potato Book"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+Trying to parse line "§r§dWither Essence §r§8x101"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dUndead Essence §r§8x32
+    §r§dWither Essence §r§8x31
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Trying to parse line "§r§dWither Essence §r§8x31"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 7
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x51
+    §r§dWither Essence §r§8x38
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Trying to parse line "§r§dWither Essence §r§8x38"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§dUndead Essence §r§8x76
+    §r§dWither Essence §r§8x63
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§dUndead Essence §r§8x76"
+Trying to parse line "§r§dWither Essence §r§8x63"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 8
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§fEnchanted Book (§r§d§lBank I§r§f)
+    §r§6Apex Dragon Shard
+    §r§dUndead Essence §r§8x95
+    §r§dWither Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_2 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank I§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_1 is WORTHLESS
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Trying to parse line "§r§dWither Essence §r§8x76"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§9Wither Shard
+    §r§fEnchanted Book (§r§d§lLast Stand I§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)
+    §r§6Power Dragon Shard
+    §r§dUndead Essence §r§8x105
+    §r§dWither Essence §r§8x86
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§fEnchanted Book (§r§d§lLast Stand I§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise I§r§f)"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 10
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VII§r§f)
+    §r§fEnchanted Book (Infinite Quiver VII§r§f)
+    §r§6Wither Boots
+    §r§fEnchanted Book (Rejuvenate III§r§f)
+    §r§cGoldor the Fish
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x100
+    §r§dUndead Essence §r§8x125
+    §r
+    §r§7Cost
+    §r§62,000,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 11
+Chest Cost is "§r§62,000,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VII§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_7 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VII§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_7 is WORTHLESS
+Trying to parse line "§r§6Wither Boots"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate III§r§f)"
+Trying to parse line "§r§cGoldor the Fish"
+  GOLDOR_THE_FISH is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x100"
+Trying to parse line "§r§dUndead Essence §r§8x125"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Clicking unopened chest at slot index 23 (23)
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x31
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x31"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§dWither Essence §r§8x42
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x42"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lCombo I§r§f)
+    §r§dWither Essence §r§8x61
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo I§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x61"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 9
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x70
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_2 is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x70"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§fEnchanted Book (§r§d§lBank II§r§f)
+    §r§9Wither Shard
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x86
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank II§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_2 is WORTHLESS
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 8
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§5Precursor Gear
+    §r§fEnchanted Book (§r§d§lUltimate Wise II§r§f)
+    §r§5Wither Blood
+    §r§6Apex Dragon Shard
+    §r§dWither Essence §r§8x104
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§62,400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§62,400,000 Coins"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Wise II§r§f)"
+Trying to parse line "§r§5Wither Blood"
+Trying to parse line "§r§6Apex Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x104"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+index 0 does not match chest regex: "§r "
+index 1 does not match chest regex: "§r "
+index 2 does not match chest regex: "§r "
+index 3 does not match chest regex: "§r "
+index 4 does not match chest regex: "§r "
+index 5 does not match chest regex: "§r "
+index 6 does not match chest regex: "§r "
+index 7 does not match chest regex: "§r "
+index 8 does not match chest regex: "§r "
+index 9 does not match chest regex: "§r "
+Chest Name: "Wood", Formatted: "WoodWood", lootEnd: 6
+Lore:
+    §r§fWood
+    §r§7Contents
+    §r§fEnchanted Book (Infinite Quiver VI§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§dWither Essence §r§8x31
+    §r§dUndead Essence §r§8x32
+    §r
+    §r§7Cost
+    §r§aFREE
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§aFREE"
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VI§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x31"
+Trying to parse line "§r§dUndead Essence §r§8x32"
+Chest Name: "Gold", Formatted: "GoldGold", lootEnd: 6
+Lore:
+    §r§6Gold
+    §r§7Contents
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)
+    §r§dWither Essence §r§8x42
+    §r§dUndead Essence §r§8x51
+    §r
+    §r§7Cost
+    §r§680,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 7
+Chest Cost is "§r§680,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lNo Pain No Gain I§r§f)"
+  ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x42"
+Trying to parse line "§r§dUndead Essence §r§8x51"
+Chest Name: "Diamond", Formatted: "DiamondDiamond", lootEnd: 7
+Lore:
+    §r§bDiamond
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate I§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lCombo I§r§f)
+    §r§dWither Essence §r§8x61
+    §r§dUndead Essence §r§8x76
+    §r
+    §r§7Cost
+    §r§6200,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 8
+Chest Cost is "§r§6200,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lCombo I§r§f)"
+  ENCHANTMENT_ULTIMATE_COMBO_1 is WORTHLESS
+Trying to parse line "§r§dWither Essence §r§8x61"
+Trying to parse line "§r§dUndead Essence §r§8x76"
+index 13 does not match chest regex: "§r "
+Chest Name: "Emerald", Formatted: "EmeraldEmerald", lootEnd: 9
+Lore:
+    §r§2Emerald
+    §r§7Contents
+    §r§fEnchanted Book (§r§d§lWisdom I§r§f)
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§fEnchanted Book (Feather Falling VI§r§f)
+    §r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x70
+    §r§dUndead Essence §r§8x95
+    §r
+    §r§7Cost
+    §r§6400,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§6400,000 Coins"
+Trying to parse line "§r§fEnchanted Book (§r§d§lWisdom I§r§f)"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§fEnchanted Book (Feather Falling VI§r§f)"
+  ENCHANTMENT_FEATHER_FALLING_6 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry II§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_2 is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x70"
+Trying to parse line "§r§dUndead Essence §r§8x95"
+Chest Name: "Obsidian", Formatted: "ObsidianObsidian", lootEnd: 8
+Lore:
+    §r§5Obsidian
+    §r§7Contents
+    §r§fEnchanted Book (Rejuvenate II§r§f)
+    §r§fEnchanted Book (§r§d§lBank II§r§f)
+    §r§9Wither Shard
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x86
+    §r§dUndead Essence §r§8x105
+    §r
+    §r§7Cost
+    §r§61,600,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 9
+Chest Cost is "§r§61,600,000 Coins"
+Trying to parse line "§r§fEnchanted Book (Rejuvenate II§r§f)"
+Trying to parse line "§r§fEnchanted Book (§r§d§lBank II§r§f)"
+  ENCHANTMENT_ULTIMATE_BANK_2 is WORTHLESS
+Trying to parse line "§r§9Wither Shard"
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x86"
+Trying to parse line "§r§dUndead Essence §r§8x105"
+Chest Name: "Bedrock", Formatted: "BedrockBedrock", lootEnd: 9
+Lore:
+    §r§8Bedrock
+    §r§7Contents
+    §r§5Precursor Gear
+    §r§6Wither Boots
+    §r§fEnchanted Book (§r§d§lUltimate Jerry III§r§f)
+    §r§fEnchanted Book (Infinite Quiver VII§r§f)
+    §r§6Power Dragon Shard
+    §r§dWither Essence §r§8x100
+    §r§dUndead Essence §r§8x126
+    §r
+    §r§7Cost
+    §r§62,000,000 Coins
+    §r
+    §r§cNOTE: Coins are withdrawn from your
+    §r§cbank if you don't have enough in
+    §r§cyour purse.
+    §r
+    §r§eClick to open!
+Cost index is 10
+Chest Cost is "§r§62,000,000 Coins"
+Trying to parse line "§r§5Precursor Gear"
+Trying to parse line "§r§6Wither Boots"
+Trying to parse line "§r§fEnchanted Book (§r§d§lUltimate Jerry III§r§f)"
+  ENCHANTMENT_ULTIMATE_JERRY_3 is WORTHLESS
+Trying to parse line "§r§fEnchanted Book (Infinite Quiver VII§r§f)"
+  ENCHANTMENT_INFINITE_QUIVER_7 is WORTHLESS
+Trying to parse line "§r§6Power Dragon Shard"
+Trying to parse line "§r§dWither Essence §r§8x100"
+Trying to parse line "§r§dUndead Essence §r§8x126"
+index 17 does not match chest regex: "§r "
+index 18 does not match chest regex: "§r "
+index 19 does not match chest regex: "§r "
+index 20 does not match chest regex: "§r "
+index 21 does not match chest regex: "§r "
+index 22 does not match chest regex: "§r "
+index 23 does not match chest regex: "§r "
+index 24 does not match chest regex: "§r "
+index 25 does not match chest regex: "§r "
+index 26 does not match chest regex: "§r "
+Index 12 already looted
+Index 13 already looted
+Index 14 already looted
+Index 15 already looted
+Index 16 already looted
+Index 17 already looted
+Index 18 already looted
+Index 19 already looted
+Index 20 already looted
+Index 21 already looted
+Index 22 already looted
+Index 23 already looted
+Index 24 already looted
+Index 25 already looted
+Index 26 already looted
+Index 27 already looted
+Moving to next page
+Index 0 already looted
+Index 1 already looted
+Index 2 already looted
+Index 3 already looted
+Index 4 already looted
+Index 5 already looted
+Index 6 already looted
+Index 7 already looted
+Index 8 already looted
+Index 9 already looted
+Index 10 already looted
+Index 11 already looted
+Index 12 already looted
+Index 13 already looted
+Index 14 already looted
+Index 15 already looted
+Index 16 already looted
+Index 17 already looted
+Index 18 already looted
+Index 19 already looted
+Index 20 already looted
+Index 21 already looted
+Index 22 already looted
+Index 23 already looted
+Index 24 already looted
+Index 25 already looted
+Index 26 already looted
+Index 27 already looted
+Moving to next page
+Index 0 already looted
+Index 1 already looted
+Index 2 already looted
+Index 3 already looted
+Item in index 4 is null
+All done!

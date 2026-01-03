@@ -1,0 +1,14 @@
+{
+    "lastApiUpdate": 1767402582907,
+    "minClickDelay": 120,
+    "noClick": false,
+    "showChestInfo": false,
+    "useKismets": true,
+    "kismetMinProfit": 3000000,
+    "kismetFloors": [
+        "M7",
+        "M6"
+    ],
+    "useChestKeys": true,
+    "chestKeyMinProfit": 400000
+}
