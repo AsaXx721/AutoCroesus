@@ -1,3 +1,5 @@
+# REMVOE -MAIN FROM THE FOLDER
+
 # AutoCroesus
 
 ChatTriggers 1.21.10
